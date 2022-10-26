@@ -2,8 +2,8 @@
 
 ---
 
-- 💼 I am developing software for more than 7 years
-- 🌱 I'm currently a software architect in the innovation team of Betha Sistemas
+- 💼 I am building software for more than 8 years
+- 🌱 I'm currently a senior software engineer at Proxpect
 - 📈 Using technologies to create scalable cloud based solutions
 
 #### Connect with me:
